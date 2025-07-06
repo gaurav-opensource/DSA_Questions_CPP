@@ -35,3 +35,16 @@ I’m currently exploring **system design** and contributing to **open-source pr
 
 # 
 
+
+
+"Hello, I’m Gaurav Yadav, currently pursuing my B.Tech in Computer Science. I’ve built a strong understanding of core subjects like Data Structures, OOPs, DBMS, OS, and CN through academics and practical projects.
+
+I recently completed a 1-month remote internship at UPMC, where I worked on backend API development for a real-time chat and video calling application. This gave me hands-on experience with building and integrating scalable backend services.
+
+I’ve also developed independent projects like a healthcare platform using the MERN stack, where users can book appointments, upload reports, and chat with doctors. Another project was a machine learning-based cursor control system using finger gestures via OpenCV.
+
+My tech stack includes Java, JavaScript, React, Node.js, Express, MongoDB, and Python. I’ve worked with Socket.IO, Cloudinary, and Razorpay for real-time communication, media uploads, and payments.
+
+I’m currently exploring system design and contributing to open-source projects.
+
+This is all about me."
