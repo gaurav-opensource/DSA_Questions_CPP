@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Define the content
-content = """
 # Self Introduction for HR Round
 
 **Hi, I’m Gaurav Yadav. It’s great to meet you! I’m currently in my third year of B.Tech in Computer Science from HCST Farah, Mathura. I’m passionate about building software that solves real-world problems.**
